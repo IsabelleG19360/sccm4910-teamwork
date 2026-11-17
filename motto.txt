@@ -1,1 +1,6 @@
+<<<<<<<< HEAD
 DevOps is about collaboration.
+======
+DevOps is about automation.
+>>>>>>> motto-b
+
